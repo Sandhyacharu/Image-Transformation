@@ -1,4 +1,4 @@
-### EX NO: 02
+### EX NO: 05
 ### DATE:
 # <p align="center">IMAGE TRANSFORMATION</p>
 

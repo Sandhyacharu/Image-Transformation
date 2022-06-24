@@ -1,4 +1,7 @@
-# Image-Transformation
+### EX NO: 02
+### DATE:
+# <p align="center">IMAGE TRANSFORMATION</p>
+
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
@@ -22,9 +25,10 @@ Plot the Image and Transformed Image on the graph using matplotlib for identifyi
 Diifferent operations has been performed on the image.
 
 ## Program:
-
+```
 ### Developed By: N Sandhya Charu
 ### Register Number: 212220230041
+```
 ```python
 import numpy as np
 import cv2
